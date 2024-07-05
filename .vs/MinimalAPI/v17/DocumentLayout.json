@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarah.okenwa\\source\\repos\\MinimalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24568729-9BCE-4E08-90CE-F41BA62F7440}|MinimalAPI.csproj|c:\\users\\sarah.okenwa\\source\\repos\\minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24568729-9BCE-4E08-90CE-F41BA62F7440}|MinimalAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24568729-9BCE-4E08-90CE-F41BA62F7440}|MinimalAPI.csproj|c:\\users\\sarah.okenwa\\source\\repos\\minimalapi\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24568729-9BCE-4E08-90CE-F41BA62F7440}|MinimalAPI.csproj|solutionrelative:models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24568729-9BCE-4E08-90CE-F41BA62F7440}|MinimalAPI.csproj|c:\\users\\sarah.okenwa\\source\\repos\\minimalapi\\validations\\couponcreatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24568729-9BCE-4E08-90CE-F41BA62F7440}|MinimalAPI.csproj|solutionrelative:validations\\couponcreatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24568729-9BCE-4E08-90CE-F41BA62F7440}|MinimalAPI.csproj|c:\\users\\sarah.okenwa\\source\\repos\\minimalapi\\minimalapi.csproj||{4C9BC7A2-907A-44AA-99EA-D1B57B1A20F8}",
+      "RelativeMoniker": "D:0:0:{24568729-9BCE-4E08-90CE-F41BA62F7440}|MinimalAPI.csproj|solutionrelative:minimalapi.csproj||{4C9BC7A2-907A-44AA-99EA-D1B57B1A20F8}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24568729-9BCE-4E08-90CE-F41BA62F7440}|MinimalAPI.csproj|c:\\users\\sarah.okenwa\\source\\repos\\minimalapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24568729-9BCE-4E08-90CE-F41BA62F7440}|MinimalAPI.csproj|solutionrelative:mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24568729-9BCE-4E08-90CE-F41BA62F7440}|MinimalAPI.csproj|c:\\users\\sarah.okenwa\\source\\repos\\minimalapi\\models\\dtos\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24568729-9BCE-4E08-90CE-F41BA62F7440}|MinimalAPI.csproj|solutionrelative:models\\dtos\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24568729-9BCE-4E08-90CE-F41BA62F7440}|MinimalAPI.csproj|c:\\users\\sarah.okenwa\\source\\repos\\minimalapi\\models\\dtos\\couponcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24568729-9BCE-4E08-90CE-F41BA62F7440}|MinimalAPI.csproj|solutionrelative:models\\dtos\\couponcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24568729-9BCE-4E08-90CE-F41BA62F7440}|MinimalAPI.csproj|c:\\users\\sarah.okenwa\\source\\repos\\minimalapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24568729-9BCE-4E08-90CE-F41BA62F7440}|MinimalAPI.csproj|solutionrelative:models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24568729-9BCE-4E08-90CE-F41BA62F7440}|MinimalAPI.csproj|c:\\users\\sarah.okenwa\\source\\repos\\minimalapi\\data\\couponstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24568729-9BCE-4E08-90CE-F41BA62F7440}|MinimalAPI.csproj|solutionrelative:data\\couponstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.okenwa\\source\\repos\\MinimalAPI\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\sarah.okenwa\\source\\repos\\MinimalAPI\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "Models\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:37:41.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CouponCreateValidation.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.okenwa\\source\\repos\\MinimalAPI\\Validations\\CouponCreateValidation.cs",
+              "RelativeDocumentMoniker": "Validations\\CouponCreateValidation.cs",
+              "ToolTip": "C:\\Users\\sarah.okenwa\\source\\repos\\MinimalAPI\\Validations\\CouponCreateValidation.cs",
+              "RelativeToolTip": "Validations\\CouponCreateValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:10:54.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MinimalAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\sarah.okenwa\\source\\repos\\MinimalAPI\\MinimalAPI.csproj",
+              "RelativeDocumentMoniker": "MinimalAPI.csproj",
+              "ToolTip": "C:\\Users\\sarah.okenwa\\source\\repos\\MinimalAPI\\MinimalAPI.csproj",
+              "RelativeToolTip": "MinimalAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-05T10:47:01.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.okenwa\\source\\repos\\MinimalAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "MappingConfig.cs",
+              "ToolTip": "C:\\Users\\sarah.okenwa\\source\\repos\\MinimalAPI\\MappingConfig.cs",
+              "RelativeToolTip": "MappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:41:10.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CouponDtO.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.okenwa\\source\\repos\\MinimalAPI\\Models\\DTOs\\CouponDtO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\CouponDtO.cs",
+              "ToolTip": "C:\\Users\\sarah.okenwa\\source\\repos\\MinimalAPI\\Models\\DTOs\\CouponDtO.cs",
+              "RelativeToolTip": "Models\\DTOs\\CouponDtO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:25:39.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CouponCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.okenwa\\source\\repos\\MinimalAPI\\Models\\DTOs\\CouponCreateDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\CouponCreateDTO.cs",
+              "ToolTip": "C:\\Users\\sarah.okenwa\\source\\repos\\MinimalAPI\\Models\\DTOs\\CouponCreateDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\CouponCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:08:11.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CouponStore.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.okenwa\\source\\repos\\MinimalAPI\\Data\\CouponStore.cs",
+              "RelativeDocumentMoniker": "Data\\CouponStore.cs",
+              "ToolTip": "C:\\Users\\sarah.okenwa\\source\\repos\\MinimalAPI\\Data\\CouponStore.cs",
+              "RelativeToolTip": "Data\\CouponStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:08:14.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.okenwa\\source\\repos\\MinimalAPI\\Models\\Coupon.cs",
+              "RelativeDocumentMoniker": "Models\\Coupon.cs",
+              "ToolTip": "C:\\Users\\sarah.okenwa\\source\\repos\\MinimalAPI\\Models\\Coupon.cs",
+              "RelativeToolTip": "Models\\Coupon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:49:34.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.okenwa\\source\\repos\\MinimalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sarah.okenwa\\source\\repos\\MinimalAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADIAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:10:25.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
